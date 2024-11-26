@@ -2,7 +2,7 @@
 This repo builds a Docker image with a ready-to-run installation of [Napari](https://github.com/napari/napari) along with the following plugins:
 
 * [napari-iohub](https://github.com/czbiohub-sf/napari-iohub)
-* [napari-omezarr](https://github.com/ome/napari-ome-zarr)
+* [napari-ome-zarr](https://github.com/ome/napari-ome-zarr)
 * [napari-animation](https://github.com/napari/napari-animation)
 
 To pull and run the latest image using Docker: 
